@@ -1,0 +1,21 @@
+{
+  "name": "wizgen",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "wizgen": "index.js"
+  },
+  "keywords": [],
+  "author": "Aditya Vardhan Agarwal <adityavagarwal7@gmail.com>",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "inquirer": "^11.1.0",
+    "ora": "^8.1.0"
+  },
+  "type": "module"
+}
